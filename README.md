@@ -13,4 +13,4 @@
   * https://youtu.be/9SkYY2b0Y38
 
 ## Preview Screenshot
-  * ![image](https://user-images.githubusercontent.com/35108041/139541036-329b971c-04ce-402a-9ef7-0ade1cb0caf4.png)
+  ![image](https://user-images.githubusercontent.com/35108041/139541036-329b971c-04ce-402a-9ef7-0ade1cb0caf4.png)
